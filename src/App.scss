@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// creating my own variables
+
+$mainBlack:#222;
+$mainGreen:#82b340;
+$mainWhite:#fff;
+$mainGrey: #ececec;
+
+
+body{
+    background: $mainWhite;
+    color: $mainBlack;
+    font-family: 'Open Sans', sans-serif;
+}
